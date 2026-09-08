@@ -1,5 +1,7 @@
 # research_analyst
 
+Autor: [Alan Vazquez, CFA](https://www.linkedin.com/in/alan-vazquez-cfa-38515414a/)
+
 > Copiloto de análisis bursátil: acompaña a un analista desde "me asignaron
 > cubrir esta empresa" hasta "publiqué mi reporte".
 > Open source · **CFA Society México · AI for Finance** · v0.6.0 (en dogfood).
