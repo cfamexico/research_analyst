@@ -25,7 +25,7 @@ reporte oficial, con página) · `guidance` (lo dijo la dirección) · `supuesto
 
 ```
 /plugin marketplace add cfamexico/research_analyst
-/plugin install research-analyst@research-analyst
+/plugin install research-analyst@cfamexico
 ```
 
 (En Cowork: menú **Customize → Add marketplace** → `cfamexico/research_analyst`.)
