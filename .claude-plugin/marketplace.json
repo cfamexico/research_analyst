@@ -1,5 +1,5 @@
 {
-  "name": "research-analyst",
+  "name": "cfamexico",
   "description": "research_analyst — plugin de equity research para analistas CFA: cobertura de emisoras de principio a fin, con el modelo como copiloto que redacta, estructura y verifica, nunca calcula ni decide.",
   "owner": {
     "name": "CFA Society Mexico - AI for Finance",
@@ -8,8 +8,18 @@
   "plugins": [
     {
       "name": "research-analyst",
+      "displayName": "Research Analyst",
       "source": "./",
-      "description": "Estructura el trabajo de cobertura de equity: folders y archivado de filings SEC/BMV, perfil contable (IFRS / US GAAP / NIF), analisis de industria estilo CFA, diseno de drivers y revenue build-up, modelo de 3 estados con checks de integridad, valuacion determinista y triage de materialidad."
+      "description": "Estructura el trabajo de cobertura de equity: folders y archivado de filings SEC/BMV, perfil contable (IFRS / US GAAP / NIF), analisis de industria estilo CFA, diseno de drivers y revenue build-up, modelo de 3 estados con checks de integridad, valuacion determinista y triage de materialidad.",
+      "keywords": [
+        "equity-research",
+        "cfa",
+        "financial-modeling",
+        "ifrs",
+        "us-gaap",
+        "nif",
+        "valuation"
+      ]
     }
   ]
 }
