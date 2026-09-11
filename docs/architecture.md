@@ -1,4 +1,4 @@
-# Arquitectura — research-analyst
+# Arquitectura — research_analyst
 
 Documento de diseño del plugin (versión aprobada 2026-08-25). El README es la carta
 de presentación; este documento es el porqué de cada decisión.
