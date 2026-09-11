@@ -1,4 +1,4 @@
-# research_analyst — guía para agentes (Cursor, Codex y cualquier agente sin soporte nativo de skills)
+# research-analyst — guía para agentes (Cursor, Codex y cualquier agente sin soporte nativo de skills)
 
 Este repo es un plugin de equity research. En Claude Code se instala como plugin
 nativo (`.claude-plugin/plugin.json`). En cualquier otro agente, TÚ eres el runtime:

@@ -1,4 +1,4 @@
-# Contribuir a research_analyst
+# Contribuir a research-analyst
 
 Gracias por querer aportar. Este plugin lo usa gente que publica research con su
 firma: un bug aquí no rompe un build, contamina una nota de inversión. Por eso el
@@ -50,7 +50,7 @@ Requisitos: Python 3.10+ y `openpyxl` (única dependencia de terceros; el resto 
 stdlib a propósito, para que los tools corran en cualquier sandbox).
 
 ```bash
-git clone https://github.com/cfamexico/research_analyst && cd research_analyst
+git clone https://github.com/cfamexico/research-analyst && cd research-analyst
 ```
 
 ```bash
