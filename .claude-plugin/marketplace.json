@@ -1,6 +1,6 @@
 {
   "name": "cfamexico",
-  "description": "research_analyst — plugin de equity research para analistas CFA: cobertura de emisoras de principio a fin, con el modelo como copiloto que redacta, estructura y verifica, nunca calcula ni decide.",
+  "description": "research-analyst — plugin de equity research para analistas CFA: cobertura de emisoras de principio a fin, con el modelo como copiloto que redacta, estructura y verifica, nunca calcula ni decide.",
   "owner": {
     "name": "CFA Society Mexico - AI for Finance",
     "email": "alanvaa.06@gmail.com"
